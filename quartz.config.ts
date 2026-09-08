@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: "plausible" },
-    locale: "zh-CN",
+    locale: "en-US",
     baseUrl: "yiyang-xu.github.io/French-Learning-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
