@@ -12,6 +12,7 @@ tags:
 > 2. demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
 > 3. exprimer des goûts. 表达喜好。
 > 4. compter. 计数。
+
 > [!info] Pour… 
 > - vous présenter et présenter une personne. 自我介绍和介绍他人。
 > - faire connaissance avec quelqu’un. 与某人相识。
