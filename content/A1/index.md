@@ -10,8 +10,8 @@ tags:
 ## Unité 1 — Rencontres 相遇
 
 > [!info] Unit objectives — Vous allez apprendre à…
-> - saluer. 打招呼。
-> - demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
+> 1. saluer. 打招呼。
+> 2. demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
 > - exprimer des goûts. 表达喜好。
 > - compter. 计数。
 >
