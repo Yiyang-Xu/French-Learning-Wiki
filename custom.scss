@@ -51,28 +51,37 @@
 
 .callout[data-callout="info"] .callout-title {
   font-size: 0.96rem;
-  padding: 0.65rem 0 0.45rem;
+  padding: 0.45rem 0 0.12rem;
+}
+
+.callout[data-callout="info"] .callout-content {
+  row-gap: 0 !important;
 }
 
 .callout[data-callout="info"] .callout-content > p,
 .callout[data-callout="info"] .callout-content > ul,
 .callout[data-callout="info"] .callout-content > ol {
-  margin-top: 0.2rem !important;
-  margin-bottom: 0.35rem !important;
+  margin-top: 0.05rem !important;
+  margin-bottom: 0.18rem !important;
 }
 
 .callout[data-callout="info"] .callout-content > p + ul,
 .callout[data-callout="info"] .callout-content > p + ol {
-  margin-top: 0.1rem !important;
+  margin-top: 0 !important;
 }
 
 .callout[data-callout="info"] .callout-content > ul + p,
 .callout[data-callout="info"] .callout-content > ol + p {
-  margin-top: 0.35rem !important;
+  margin-top: 0.18rem !important;
+  margin-bottom: 0.08rem !important;
 }
 
 .callout[data-callout="info"] .callout-content li {
-  margin: 0.05rem 0 !important;
+  margin: 0 !important;
+}
+
+.callout[data-callout="info"] .callout-content > :last-child {
+  margin-bottom: 0.35rem !important;
 }
 
 @media (min-width: 1000px) {
