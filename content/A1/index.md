@@ -5,22 +5,18 @@ tags:
   - French/A1
 ---
 
-> 当前主线：詹晨《你好！法语 1》A1 课程。
-
 ## Unité 1 — Rencontres 相遇
 
 > [!info] Unit objectives — Vous allez apprendre à…
 > 1. saluer. 打招呼。
 > 2. demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
-> - exprimer des goûts. 表达喜好。
-> - compter. 计数。
->
-> **Pour… 以便学会：**
+> 3. exprimer des goûts. 表达喜好。
+> 4. compter. 计数。
+> [!info] Pour… 
 > - vous présenter et présenter une personne. 自我介绍和介绍他人。
 > - faire connaissance avec quelqu’un. 与某人相识。
 > - demander des nouvelles. 打听某人的消息。
 > - chercher un(e) correspondant(e). 找笔友。
-
 ---
 
 ### Leçon 1 — Bienvenue ! 欢迎！
