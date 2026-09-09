@@ -9,19 +9,19 @@ tags:
 
 ## Unité 1 — Rencontres 相遇
 
-### Vous allez apprendre à… 本单元将学习以下内容：
+> [!info] Unit objectives — Vous allez apprendre à…
+> - saluer. 打招呼。
+> - demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
+> - exprimer des goûts. 表达喜好。
+> - compter. 计数。
+>
+> **Pour… 以便学会：**
+> - vous présenter et présenter une personne. 自我介绍和介绍他人。
+> - faire connaissance avec quelqu’un. 与某人相识。
+> - demander des nouvelles. 打听某人的消息。
+> - chercher un(e) correspondant(e). 找笔友。
 
-- saluer. 打招呼。
-- demander et dire le nom et le prénom, l’âge, les coordonnées, la profession. 就姓名、年龄、联系方式和职业提问和回答。
-- exprimer des goûts. 表达喜好。
-- compter. 计数。
-
-### Pour… 以便学会：
-
-- vous présenter et présenter une personne. 自我介绍和介绍他人。
-- faire connaissance avec quelqu’un. 与某人相识。
-- demander des nouvelles. 打听某人的消息。
-- chercher un(e) correspondant(e). 找笔友。
+---
 
 ### Leçon 1 — Bienvenue ! 欢迎！
 
@@ -65,29 +65,43 @@ tags:
 
 > 待提供教材截图后填写。
 
+---
+
 ## Unité 3
 
 > 待提供教材截图后填写。
+
+---
 
 ## Unité 4
 
 > 待提供教材截图后填写。
 
+---
+
 ## Unité 5
 
 > 待提供教材截图后填写。
+
+---
 
 ## Unité 6
 
 > 待提供教材截图后填写。
 
+---
+
 ## Unité 7
 
 > 待提供教材截图后填写。
 
+---
+
 ## Unité 8
 
 > 待提供教材截图后填写。
+
+---
 
 ## Unité 9
 
