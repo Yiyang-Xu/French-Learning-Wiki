@@ -23,37 +23,43 @@ tags:
 - demander des nouvelles. 打听某人的消息。
 - chercher un(e) correspondant(e). 找笔友。
 
-## Leçon 1 — Bienvenue ! 欢迎！
+### Leçon 1 — Bienvenue ! 欢迎！
 
-### Grammaire 语法
+#### Grammaire 语法
 
 1. La conjugaison des verbes — 动词变位
 2. Le genre : le masculin et le féminin — 阳性和阴性
 3. L’interrogation — 疑问句
 4. L’interrogatif *qui* — 疑问词 *qui*
 
-### Savoir dire 学会说
+#### Savoir dire 学会说
 
 - Saluer 打招呼
 - Se présenter 进行自我介绍
 - Demander et dire le prénom et le nom 问答姓名
 
-### Prononcez 发音
+#### Prononcez 发音
 
 - C’est une question ? — 这是问题吗？
 
-### Vidéos
+#### Vidéos
 
-- [948.〖A1〗代词式动词零基础入门：S'appeler 变位精讲〖法语词汇〗](https://www.bilibili.com/video/BV1hg411A7DC/)
+- [948.【A1】代词式动词零基础入门：S'appeler 变位精讲【法语词汇】](https://www.bilibili.com/video/BV1hg411A7DC/)
 - [950.【A1】定冠词概念/国家前介词选择/缩合概念入门【法语语法】](https://www.bilibili.com/video/BV1FU4y1T7wE/)
 
-## Leçon 2
+---
+
+### Leçon 2
 
 > 待提供《你好！法语 1》教材截图后填写。
 
-## Leçon 3
+---
+
+### Leçon 3
 
 > 待提供《你好！法语 1》教材截图后填写。
+
+---
 
 ## Unité 2
 
