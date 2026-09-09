@@ -45,6 +45,7 @@ tags:
 ### Vidéos
 
 - [948.〖A1〗代词式动词零基础入门：S'appeler 变位精讲〖法语词汇〗](https://www.bilibili.com/video/BV1hg411A7DC/)
+- [950.【A1】定冠词概念/国家前介词选择/缩合概念入门【法语语法】](https://www.bilibili.com/video/BV1FU4y1T7wE/)
 
 ## Leçon 2
 
