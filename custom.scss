@@ -13,22 +13,22 @@
 }
 
 .center h2 {
-  font-size: 1.22rem !important;
+  font-size: 1.28rem !important;
   line-height: 1.35 !important;
-  margin-top: 1.35rem !important;
-  margin-bottom: 0.4rem !important;
+  margin-top: 1.7rem !important;
+  margin-bottom: 0.55rem !important;
 }
 
 .center h3 {
-  font-size: 1.02rem !important;
+  font-size: 1.08rem !important;
   line-height: 1.4 !important;
-  margin-top: 1rem !important;
-  margin-bottom: 0.3rem !important;
+  margin-top: 1.15rem !important;
+  margin-bottom: 0.35rem !important;
 }
 
 .center h4 {
-  font-size: 0.95rem !important;
-  margin-top: 0.8rem !important;
+  font-size: 0.96rem !important;
+  margin-top: 0.85rem !important;
   margin-bottom: 0.25rem !important;
 }
 
@@ -42,4 +42,48 @@
 .page-title {
   font-size: 1.55rem !important;
   line-height: 1.2 !important;
+}
+
+.callout[data-callout="info"] {
+  margin: 0.75rem 0 1.1rem;
+}
+
+.callout[data-callout="info"] .callout-title {
+  font-size: 0.96rem;
+}
+
+@media (min-width: 1000px) {
+  .page > #quartz-body {
+    grid-template-columns: 280px minmax(0, 1fr) 260px !important;
+    grid-template-rows: auto auto auto !important;
+    grid-template-areas:
+      "grid-sidebar-left grid-header grid-sidebar-right"
+      "grid-sidebar-left grid-center grid-sidebar-right"
+      "grid-sidebar-left grid-footer grid-sidebar-right" !important;
+    column-gap: 12px !important;
+  }
+
+  .page > #quartz-body .sidebar.left {
+    grid-area: grid-sidebar-left !important;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    grid-area: grid-sidebar-right !important;
+    display: flex !important;
+    position: sticky !important;
+    top: 0 !important;
+    height: 100vh !important;
+    width: auto !important;
+    flex-direction: column !important;
+    padding: 6rem 1.25rem 2rem !important;
+  }
+
+  .page > #quartz-body .sidebar.right > .toc {
+    display: block !important;
+  }
+
+  .page > #quartz-body .sidebar.right > * {
+    flex: initial !important;
+    max-height: none !important;
+  }
 }
