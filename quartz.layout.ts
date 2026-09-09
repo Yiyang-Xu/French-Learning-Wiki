@@ -35,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
@@ -55,7 +54,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
