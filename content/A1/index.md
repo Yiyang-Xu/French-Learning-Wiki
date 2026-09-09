@@ -43,6 +43,7 @@ tags:
 
 - [948.【A1】代词式动词零基础入门：S'appeler 变位精讲【法语词汇】](https://www.bilibili.com/video/BV1hg411A7DC/)
 - [950.【A1】定冠词概念/国家前介词选择/缩合概念入门【法语语法】](https://www.bilibili.com/video/BV1FU4y1T7wE/)
+- [954.【A1】Être变位/联诵实战/系表结构不带冠词【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1r34y1R7Ze/)
 
 ---
 
