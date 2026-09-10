@@ -40,6 +40,16 @@ tags:
   - [948.【A1】代词式动词零基础入门：S'appeler 变位精讲【法语词汇】](https://www.bilibili.com/video/BV1hg411A7DC/)
   - [950.【A1】定冠词概念/国家前介词选择/缩合概念入门【法语语法】](https://www.bilibili.com/video/BV1FU4y1T7wE/)
   - [954.【A1】Être变位/联诵实战/系表结构不带冠词【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1r34y1R7Ze/)
+  - [958.【A1】Italienne鼻化元音拆分/Parler变位及用法/【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1k34y1X7qS/)
+  - [960.【A1】主有形容词Mon,Ma,Mes/Monsieur, Madame发音及用法/不要喊老师Professeur【法语词汇】](https://www.bilibili.com/video/BV1uS4y197i7/)
+  - [962.【A1】表格上Nationalité这一栏填什么？Trois cent cinq Cent要不要加s【法语词汇】](https://www.bilibili.com/video/BV1fL4y1n7hU/)
+  - [964.【A1】法语动词变位概念入门/Aller,Avoir,Finir变位及发音/【法语语法】](https://www.bilibili.com/video/BV1434y197bm/)
+  - [966.【A1】法语名词阴阳性入门/定冠词不定冠词概念入门/【法语语法】](https://www.bilibili.com/video/BV1Vb4y1q77r/)
+  - [968.【A1】法语一般疑问句入门：三种形式转换【法语语法】](https://www.bilibili.com/video/BV1WY411H7CV/)
+  - [970.【A1】法语特殊疑问句入门：常用特殊疑问词及三种形式转换【法语语法】](https://www.bilibili.com/video/BV1nq4y1B75N/)
+  - [972.【A1】法语特殊疑问词Qui入门和基础自我介绍句型精讲【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1wR4y1s7iS/)
+  - [974.【A1】第一课入门听力对话精讲/Tu的发音/Tu与Vous的区别【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1KS4y1M73n/)
+  - [976.【A1】重读人称代词入门/être变位小练习精讲【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1ER4y1379h/)
 
 ---
 
