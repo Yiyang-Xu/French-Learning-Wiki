@@ -53,9 +53,38 @@ tags:
 
 ---
 
-### Leçon 2
+### Leçon 2 — Qui est-ce ? 这是谁？
 
-> 待提供《你好！法语 1》教材截图后填写。
+- **Notes 注释**
+  - 职业/身份名词跟在 *être* 后作表语时通常不加冠词，例如 *Elle est étudiante.*
+  - 用 *c’est / ce sont* 判断身份时保留冠词，例如 *C’est une étudiante.*
+  - 句末 *non ?* 可用于口语中的反问或确认。
+
+- **Grammaire 语法**
+  1. L’article défini (1) — 定冠词（1）
+     - 阳性单数 *le / l’*；阴性单数 *la / l’*。
+     - 元音或哑音 h 开头时使用 *l’*。
+  2. La forme féminine des noms — 名词的阴性形式
+     - 一般规则是在阳性形式后加 *-e*；同时学习若干常见词尾变化。
+  3. La forme féminine des adjectifs — 形容词的阴性形式
+     - 一般规则是在阳性形式后加 *-e*；同时学习常见特殊变化。
+  4. Préposition + nom de pays — 介词 + 国别名词
+     - *en*：阴性单数国名，以及元音开头的阳性单数国名。
+     - *au*：辅音开头的阳性单数国名。
+     - *aux*：复数国名。
+  5. Préposition + nom de ville — 介词 + 城市名
+     - 一般用 *à + 城市名*；少数自带冠词的城市名会发生缩合。
+
+- **Savoir dire 学会说**
+  - Identifier une personne — 说出某人的身份
+  - 用 *Qui est-ce ? / C’est… / Il ou Elle s’appelle… / Il ou Elle est… / Il ou Elle habite…* 介绍和识别人物。
+
+- **Prononcez 发音**
+  - Les syllabes — 音节
+  - 训练拆分音节后按正常节奏朗读。
+
+- **Vidéos**
+  - [978.【A1】介词 à 搭配入门/介词和冠词的缩合入门【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1bR4y1374F/)
 
 ---
 
