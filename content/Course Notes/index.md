@@ -7,8 +7,4 @@ tags:
 
 这里保存按实际课程进度整理的详细学习笔记。
 
-## Unité 1
-
-### Leçon 1 — Bienvenue ! 欢迎！
-
-- [[Course Notes/Unité 1/Leçon 1/948|948.【A1】代词式动词入门]]
+- [[Course Notes/948|948.【A1】代词式动词入门]]
