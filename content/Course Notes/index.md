@@ -5,9 +5,10 @@ tags:
   - French/Course-Notes
 ---
 
-这里保存按实际课程进度整理的详细学习笔记。
+这里按教材结构保存课程详细笔记：每个 Leçon 一篇完整笔记；相关视频按知识点列在笔记内部。
 
-- [[Course Notes/948|948.【A1】代词式动词入门]]
-- [[Course Notes/950|950.【A1】由 Bienvenue 展开的语法点：定冠词、国家名前的介词、缩合]]
-- [[Course Notes/954|954.【A1】être 的变位、联诵实战、系表结构]]
-- [[Course Notes/956|956.【A1】主有形容词（1）与国籍形容词入门]]
+## A1
+
+### Unité 1 — Rencontres
+
+- [[Course Notes/A1-U1-L1|Leçon 1 — Bienvenue ! 欢迎！]]
