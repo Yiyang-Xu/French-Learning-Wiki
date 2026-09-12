@@ -9,3 +9,4 @@ tags:
 
 - [[Course Notes/948|948.【A1】代词式动词入门]]
 - [[Course Notes/950|950.【A1】由 Bienvenue 展开的语法点：定冠词、国家名前的介词、缩合]]
+- [[Course Notes/954|954.【A1】être 的变位、联诵实战、系表结构]]
