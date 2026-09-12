@@ -109,6 +109,7 @@ tags:
   - [1014.【A1】国家和城市前介词的选择【法语语法】](https://www.bilibili.com/video/BV15P4y1P7Vb/)
   - [1018.【A1】Taxi你好法语第二课入门级听力精听精讲【法语语法】](https://www.bilibili.com/video/BV1qi4y1f791/)
   - [1022.【A1】Taxi你好法语第二课入门级听力练习实战【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1qP4y1F7Zk/)
+  - [1031.【A1】入门级听力精讲：法国电话号码 邮箱读法 入门知识点大杂烩【法语语法】【法语词汇】](https://www.bilibili.com/video/BV16i4y1y7m1/)
 
 ---
 
