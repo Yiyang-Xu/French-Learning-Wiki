@@ -93,6 +93,22 @@ tags:
 
 - **Vidéos**
   - [978.【A1】介词 à 搭配入门/介词和冠词的缩合入门【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1bR4y1374F/)
+  - [980.【A1】主有形容词Mon Ma Mes选择问题及名词变阴性对发音的影响【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1eF411i7qp/)
+  - [982.【A1】国籍形容词和某国人的用法及转换/Parler+语言的用法【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1AL4y1J7sj/)
+  - [984.【A1】Chine, chinois, Chinois 不要再混了！【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1Q34y1z7LH/)
+  - [986.【A1】Prendre 变位别再念错了！发音用法精讲！【法语语法】【法语词汇】](https://www.bilibili.com/video/BV18S4y1T7qW/)
+  - [988.【A1】介词En基础用法入门/Directeur阴阳转换及常用句型实战【法语语法】【法语词汇】](https://www.bilibili.com/video/BV183411a7cP/)
+  - [989.【A1】é和è的发音不一样! 别再念错了 快改晕过去了【法语语音】【法语词汇】](https://www.bilibili.com/video/BV1V34y1B7dN/)
+  - [990.【A1】Et和Ou连词后介词要重复！【法语语法】](https://www.bilibili.com/video/BV1744y157vF/)
+  - [992.【A1】être系表结构不带冠/阳性职业名词现状【法语语法】](https://www.bilibili.com/video/BV1jm4y1D7PT/)
+  - [994.【A1】什么是Sur rendez-vous【法语词汇】](https://www.bilibili.com/video/BV1sY411h7UE/)
+  - [997.【A1】Sympathique用法/形容词配合概念入门【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1mL4y1b7ev/)
+  - [999.【A1】-er,-ère, u, ou 老是念错！3分钟解决！【法语语音】](https://www.bilibili.com/video/BV1JS4y1o7jc/)
+  - [1006.【A1】法语名词阳性变阴性规则入门【法语语法】](https://www.bilibili.com/video/BV1R5411f759/)
+  - [1010.【A1】法语形容词阳性变阴性规则入门+Nouveau的阴阳性变化【法语语法】](https://www.bilibili.com/video/BV1CT4y1C7PJ/)
+  - [1014.【A1】国家和城市前介词的选择【法语语法】](https://www.bilibili.com/video/BV15P4y1P7Vb/)
+  - [1018.【A1】Taxi你好法语第二课入门级听力精听精讲【法语语法】](https://www.bilibili.com/video/BV1qi4y1f791/)
+  - [1022.【A1】Taxi你好法语第二课入门级听力练习实战【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1qP4y1F7Zk/)
 
 ---
 
