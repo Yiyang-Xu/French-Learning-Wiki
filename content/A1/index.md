@@ -22,19 +22,66 @@ tags:
 
 ### Leçon 1 — Bienvenue ! 欢迎！
 
+- **Notes 注释**
+  - **vous 还是 tu？**
+    - *vous* 既可以表示“你们”，也可以作为单数礼貌称呼“您”。
+    - 正式场合、初次见面以及一般社会关系中通常使用 *vous*，并常配合 *monsieur / madame* 等称谓。
+    - 亲人、朋友、同事、同学之间通常直接称呼名字并使用 *tu*。
+    - 例如：*Bonjour, monsieur. Vous êtes italien ?*；对熟人则可以说 *Bonjour, Alice. Tu es française ?*
+  - **et elle, c’est Nicole, elle est française.**
+    - *et elle* 可用于引出接下来要介绍的人。
+    - *française* 在这里是表示国籍的形容词，首字母小写；如果作为“法国女人”这一名词使用，则写作 *Française*。
+
 - **Grammaire 语法**
-  1. La conjugaison des verbes — 动词变位
-  2. Le genre : le masculin et le féminin — 阳性和阴性
-  3. L’interrogation — 疑问句
-  4. L’interrogatif *qui* — 疑问词 *qui*
+  1. **La conjugaison des verbes — 动词变位**
+     - 法语动词会根据主语人称、时态以及表达方式等发生词形变化，这就是动词变位。
+     - 按词尾形式，动词通常分为三组：第一组以 *-er* 结尾，第二组以 *-ir* 结尾，第三组为不规则动词。
+     - 本课首先接触直陈式现在时，用来陈述当前存在的状态、正在发生或近期发生的动作和事实。
+     - **être**：*je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont*。
+     - **s’appeler**：*je m’appelle, tu t’appelles, il/elle s’appelle, nous nous appelons, vous vous appelez, ils/elles s’appellent*。
+     - 需要把常用动词的变位形式和主语一起记忆，不能只记原形。
+
+  2. **Le genre : le masculin et le féminin — 阳性和阴性**
+     - 法语名词有阳性和阴性之分，通常分别标记为 *n.m.* 和 *n.f.*。
+     - 表示人或动物的名词，其阴阳性往往与自然性别相关；其他名词的阴阳性通常是约定形成的，需要与名词一起记忆。
+     - 修饰或限定名词的代词、形容词、冠词等，也需要随着相关名词的性发生变化。
+     - 例如：*un journal*（阳性）/ *une revue*（阴性）。
+     - 表示人物时也要注意性的一致：*Il s’appelle Yves. / Elle s’appelle Alice.*；*Yves est français. / Alice est française.*
+
+  3. **L’interrogation — 疑问句**
+     - 疑问句分为**一般疑问句**和**特殊疑问句**。
+     - **一般疑问句**用于判断“是/否”，通常用 *oui / non* 回答，基础形式有三种：
+       - **陈述句 + ?**：句末语调上升，例如 *Vous êtes italien ?*。这种形式一般用于口语。
+       - **Est-ce que + 陈述句 + ?**：例如 *Est-ce que vous êtes italien ?*，口语和书面语都可使用。
+       - **谓语动词 + 连字符 + 主语代词 + ?**：例如 *Êtes-vous italien ?*，这种倒装形式主要用于较正式的书面语。
+     - **特殊疑问句**使用疑问词提问，常见的有 *qui*（谁）、*que / quoi*（什么）、*quel*（哪个）、*comment*（怎样）、*combien*（多少）、*où*（哪里）、*quand*（什么时候）、*pourquoi*（为什么）。
+     - 特殊疑问句也常见三种结构：
+       - **陈述句 + 疑问词 + ?**：*Vous vous appelez comment ?*，通常用于口语。
+       - **疑问词 + est-ce que + 陈述句 + ?**：*Comment est-ce que vous vous appelez ?*，口语、书面语均可。
+       - **疑问词 + 谓语动词 + 连字符 + 主语代词 + ?**：*Que cherchez-vous ?*，主要用于书面语或较正式表达。
+
+  4. **L’interrogatif qui — 疑问词 qui**
+     - *qui* 用来就“人”进行提问，意思是“谁”。
+     - *Qui est-ce ?* — “这是谁？”；回答可以是 *C’est Nicole.*
+     - *Qui êtes-vous ?* — “您是谁？”；回答可以是 *Je suis Alice Doucet.*
+     - 在 *Qui est-ce ?* 这一固定问法中，动词 *être* 始终使用第三人称单数形式 *est*，即使答案中包含多个人，例如：*Qui est-ce ? — Ce sont Aldo et Giacomo.*
 
 - **Savoir dire 学会说**
-  - Saluer 打招呼
-  - Se présenter 进行自我介绍
-  - Demander et dire le prénom et le nom 问答姓名
+  - **Saluer — 打招呼**
+    - *Bonjour.*
+    - *Bonjour, monsieur.*
+    - *Bonjour, madame Doucet.*
+  - **Se présenter — 进行自我介绍**
+    - *Je suis Alice Doucet.*
+    - *Je m’appelle Nicole Falco.*
+    - *Je suis français(e).* 
+  - **Demander et dire le prénom et le nom — 问答姓名**
+    - *Qui est-ce ? — C’est Aldo Falco.*
+    - *Il/Elle s’appelle Doucet.*
 
 - **Prononcez 发音**
-  - C’est une question ? — 这是问题吗？
+  - **C’est une question ? — 这是问题吗？**
+  - 注意区分陈述句和疑问句的语调：一般疑问句可通过句末升调表达疑问。
 
 - **Vidéos**
   - [948.【A1】代词式动词零基础入门：S'appeler 变位精讲【法语词汇】](https://www.bilibili.com/video/BV1hg411A7DC/)
