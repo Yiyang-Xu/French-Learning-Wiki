@@ -113,9 +113,45 @@ tags:
 
 ---
 
-### Leçon 3
+### Leçon 3 — Ça va bien ? 你好吗？
 
-> 待提供《你好！法语 1》教材截图后填写。
+- **Notes 注释**
+  - *salut* 用于熟人之间，可表示“你好”或“再见”。
+  - *Tu vas bien ? / Ça va bien ?* 都可用于问候近况；*ça va* 更口语化。
+  - 电子邮箱中 *@* 读作 *arobase*，*.com* 读作 *point com*。
+
+- **Grammaire 语法**
+  1. Les verbes *aller* et *avoir* au présent — *aller* 与 *avoir* 的现在时变位
+     - 本课重点掌握 *je vais / tu vas / il va / nous allons / vous allez / ils vont* 与 *j’ai / tu as / il a / nous avons / vous avez / ils ont*。
+  2. L’adjectif possessif (1) — 主有形容词（1）
+     - *mon / ma / mes, ton / ta / tes, son / sa / ses, votre / vos*。
+     - 阴性单数名词以元音或哑音 h 开头时，用 *mon / ton / son*：*mon école, ton amie, son histoire*。
+  3. L’article indéfini (1) — 不定冠词（1）
+     - 阳性单数 *un*；阴性单数 *une*。
+  4. L’interrogatif *quel* — 疑问形容词 *quel*
+     - *quel / quelle / quels / quelles* 要与所修饰名词保持性、数一致。
+     - 常见句型：*Quel est votre nom ? / Quelle est ton adresse ?*
+
+- **Savoir dire 学会说**
+  - Demander des nouvelles — 问候近况：*Comment allez-vous ? / Tu vas bien ? / Ça va ?*
+  - Demander l’âge, l’adresse, le numéro de téléphone — 询问年龄、地址和电话号码。
+  - 常用句型：*Il a quel âge ? / Quelle est ton adresse ? / Quel est son numéro de téléphone ?*
+
+- **Prononcez 发音**
+  - L’accent tonique — 重音
+  - 法语节奏组的重音通常落在最后一个音节。
+
+- **Vidéos**
+  - [1034.【A1】介词Avec基础用法入门 + 主有形容词 Votre 精讲【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1ha411h7zd/)
+  - [1038.【A1】入门动词Avoir 精讲【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1hY411g7Q3/)
+  - [1040.【A1】疑问词Comment入门 + 疑问句三种形式入门 + 如何问名字【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1y34y187kJ/)
+  - [1042.【A1】容易念错：Fils, Fille 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV15L411P7SK/)
+  - [1044.【A1】易错！Bon, Bonne发音 + 表祝福用法日常用语 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV13L4y1M7VJ/)
+  - [1047.【A1】你大概率会念错的Montréal和Montmartre【法语词汇】](https://www.bilibili.com/video/BV1x34y1t7pm/)
+  - [1050.【A1】指示形容词：Ce, Cette, Cet, Ces 入门【法语词汇】](https://www.bilibili.com/video/BV1yS4y1U7Ts/)
+  - [1052.【A1】主有形容Mon, Ton, Son等 最详细手把手教入门完整版【法语词汇】](https://www.bilibili.com/video/BV1tr4y1W7jL/)
+  - [1057.【A1】Taxi第三课课文精讲：Ça va bien?【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1cY411J7ET/)
+  - [1061.【A1】Taxi第三课听力精讲：Monsieur Legrand et Madame Lebon【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1BY4y1v7XS/)
 
 ---
 
