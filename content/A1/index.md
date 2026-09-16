@@ -155,6 +155,35 @@ tags:
 
 ---
 
+### Leçon 4 — Correspondants 寻找笔友
+
+- **Notes 注释**
+  - 法语不仅用于法国，在比利时、瑞士、塞内加尔、加拿大魁北克、法属圭亚那等国家和地区也广泛使用。
+  - *photo* 是 *photographie* 的常用缩写，可表示“摄影”或“照片”。
+  - *de… à…* 可表示“从……到……”或“……之间”：*de 30 à 40 ans / de Paris à Marseille*。
+
+- **Savoir dire 学会说**
+  - Se présenter dans un message — 在短消息中介绍姓名、年龄、居住地、职业、语言和兴趣。
+  - Chercher un(e) correspondant(e) — 表达想寻找怎样的笔友，例如地点、年龄或性别。
+  - Écrire un e-mail simple à un(e) correspondant(e) — 写一封简单的法语邮件进行自我介绍。
+
+- **Aperçu culturel 文化一瞥**
+  - La Francophonie — 法语国家和地区。
+  - 法语使用者分布在欧洲、非洲、美洲、亚洲和大洋洲；教材以魁北克、塞内加尔、比利时、瑞士和法属地区等为例。
+
+- **Vidéos**
+  - [1062.【A1】基础动词用法：Aimer + 指示代词Ce, Cet, Cette, Ces 发音精讲【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1oY4y1q77t/)
+  - [1068.【A1】为什么法语我爱你Je t'aime 是我 你 爱【法语语法】](https://www.bilibili.com/video/BV1oY411L7pD/)
+  - [1071.【A1】高频基础副词Aussi用法：重读人代+Aussi【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1434y1x75c/)
+  - [1076.【A1】法属圭亚那闲扯到法国在海外的影响【法语法国文化】](https://www.bilibili.com/video/BV1RL4y157m2/)
+  - [1079.【A1】介词De的基础用法: De...à...【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1Ti4y1S7iE/)
+  - [1084.【A1】别再混淆France, français, française, Français啦！【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1oS4y1h7mh/)
+  - [1088.【A1】容易混的“全世界”和“所有人” Tout le monde, le monde entier【法语语法】【法语词汇】](https://www.bilibili.com/video/BV1B44y1g7Xn/)
+  - [1091.【A1】Musique 不要念错了！玉的音和乌的音还有油的音！【法语发音】](https://www.bilibili.com/video/BV19r4y1b7D5/)
+  - [1094.【A1】数量副词：Peu, Un peu de, Beaucoup 快速入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1RA4y1U76D/)
+
+---
+
 ## Unité 2
 
 > 待提供教材截图后填写。
