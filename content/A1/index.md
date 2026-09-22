@@ -228,6 +228,19 @@ tags:
   - 名词复数词尾 *-s / -x* 通常不发音，听辨时要注意冠词和句中其他词的变化。
 
 - **Vidéos**
+  - [1097.【A1】介词de后面的名词什么时候会带冠词入门 + 指示adj应用【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1bS4y1b7Ut/)
+  - [1099.【A1】方位词：Au-dessus de, Au-dessous de使用实战及限定词排他性【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1eU4y1m7cD/)
+  - [1102.【A1】介词AVEC表带有具有的用法及定冠词不定冠词含义区分【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1s3411A7qi/)
+  - [1105.【A1】基础句型 Il y a 入门精讲与实战【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1HF411L7N4/)
+  - [1108.【A1】电脑不叫Computer+疑问词Quoi应用实战【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1cS4y1z7T7/)
+  - [1111.【A1】基础动词Trouver用法精讲与实战+ 易错的Magnifique发音【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1aU4y1277x/)
+  - [1114.【A1】法语名词变复数基础规则入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1jY4y1L7Tr/)
+  - [1117.【A1】不会有罪的结构 Il Y A 入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1mA4y1Z7TP/)
+  - [1119.【A1】基础疑问结构 Qu'est-ce que 入门与实战【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1D5411Q7qz/)
+  - [1122.【A1】法语补音概念入门与实战【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1sA4y1R77h/)
+  - [1125.【A1】你好法语1 第五课课文精讲【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1Pt4y1H7cg/)
+  - [1129.【A1】法语基础方位词精讲：在左边，在右边，在旁边...【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1et4y1H71e/)
+  - [1133.【A1】法语定冠词不定冠词省音练习精讲【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1C3411M7pA/)
 
 ---
 
