@@ -184,9 +184,50 @@ tags:
 
 ---
 
-## Unité 2
+## Unité 2 — Portraits 画像
 
-> 待提供教材截图后填写。
+> [!info] Unit objectives — Vous allez apprendre à…
+> 1. montrer et situer des objets et des personnes. 指出事物和人，确定其方位。
+> 2. exprimer la possession. 表达所属关系。
+> 3. exprimer des goûts. 表达喜好。
+> 4. indiquer des couleurs. 表述颜色。
+> 5. demander et dire le prix. 询问以及表述价格。
+
+> [!info] Pour…
+> - décrire et localiser des objets. 描述事物并确定其方位。
+> - identifier quelqu’un. 识别人物身份。
+> - faire des achats. 购物。
+---
+
+### Leçon 5 — Trouvez l’objet 找出物品
+
+- **Notes 注释**
+  - *ça* 在口语中常用于指代“这个 / 那个 / 这件事”：*C’est ça ? / Voilà, c’est ça !*
+  - 表示位置常用 *dans, sur, sous, contre, à côté de, à gauche de, à droite de*。
+  - *Oh là là !* 可表示惊讶、烦恼或感叹，具体语气取决于语境。
+
+- **Grammaire 语法**
+  1. L’article défini (2) — 定冠词（2）
+     - 复数形式统一为 *les*：*les voisins / les voisines / les étudiants*。
+  2. L’article indéfini (2) — 不定冠词（2）
+     - 复数形式统一为 *des*：*des voisins / des voisines / des étudiants*。
+  3. Le pluriel des noms — 名词的复数形式
+     - 一般在单数后加 *-s*；以 *-s, -x, -z* 结尾的名词复数形式通常不变。
+     - 常见变化：*-au / -eau / -eu → -x*；*-al → -aux*。
+  4. *Il y a* — “有 / 存在”
+     - *Il y a* 是无人称结构，后面的人或事物无论单复数，形式都不变：*Il y a un livre. / Il y a des livres.*
+  5. L’interrogatif *que* et *qu’est-ce que* — 疑问词 *que* 与疑问句式 *qu’est-ce que*
+     - 用于询问“什么”：*Qu’est-ce que c’est ? / Qu’est-ce qu’il y a dans la chambre ?*
+
+- **Savoir dire 学会说**
+  - Nommer des objets — 说出物品名称：*Qu’est-ce que c’est ? / C’est une photo. / Ce sont des photos.*
+  - Montrer et situer des objets — 指出物品并确定其位置：*Les livres sont sur l’étagère. / Ils sont dans la chambre, sous l’étagère à côté de la fenêtre.*
+
+- **Prononcez 发音**
+  - Singulier ou pluriel ? — 单数还是复数？
+  - 名词复数词尾 *-s / -x* 通常不发音，听辨时要注意冠词和句中其他词的变化。
+
+- **Vidéos**
 
 ---
 
