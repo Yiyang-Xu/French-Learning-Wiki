@@ -278,6 +278,16 @@ tags:
   - 注意复数词与元音开头词之间的联诵：*ils ont / vous avez / nous avons / vos amis*。
 
 - **Vidéos**
+  - [1136.【A1】基础词汇讲解实战：Chaussure, Blanc, Bleu, Beaucoup de..【法语词汇】](https://www.bilibili.com/video/BV1UY4y1g7Fm/)
+  - [1140.【A1】基础词汇讲解实战：Grand, Petit【法语词汇】](https://www.bilibili.com/video/BV1JZ4y1e7bX/)
+  - [1144.【A1】基础词汇讲解实战：Acheter 和Je voudrais句型【法语词汇】](https://www.bilibili.com/video/BV18U4y1S7gM/)
+  - [1148.【A1】重读人称代词入门精讲+基础动词Venir入门 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV13a411p7Q5/)
+  - [1152.【A1】法语否定句与绝对否定概念入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1ZW4y127rk/)
+  - [1155.【全阶段】介词De后面的名词带不带冠词的问题快速理解【法语语法】](https://www.bilibili.com/video/BV1HN4y1T7gP/)
+  - [1157.【A1】法语性数配合概念入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV16S4y177zX/)
+  - [1160.【A1】法语形容词单数变复数规则入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV18r4y177ZW/)
+  - [1164.【A1】法语主有形容词入门【法语词汇】【法语语法】](https://www.bilibili.com/video/BV18F411N7ut/)
+  - [1168.【A1】你好法语A1第六课课文精讲【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1Fa411M7kP/)
 
 ---
 
