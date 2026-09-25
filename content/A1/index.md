@@ -244,6 +244,43 @@ tags:
 
 ---
 
+### Leçon 6 — Portrait-robot 模拟画像
+
+- **Notes 注释**
+  - *d’accord* 常用于表示同意或确认：“好的 / 行”。
+  - *chemise* 是“衬衫”，而 *chemisier* 常指女式衬衫。
+  - *lunettes*（眼镜）通常用复数；*une lunette* 多指单个镜片或光学器具。
+  - *De quelle couleur ?* 是 *Son blouson est de quelle couleur ?* 的省略问法。
+
+- **Grammaire 语法**
+  1. Le pronom tonique (1) — 重读人称代词（1）
+     - 本课重点：*moi, toi, lui / elle, vous*。
+     - 可用于介词后、强调主语、*c’est* 后作表语，以及省略句：*à lui / Moi, je… / C’est elle. / Et vous ?*
+  2. La négation *ne… pas* — 否定结构 *ne… pas*
+     - 基本结构：*ne + verbe + pas*；元音或哑音 h 开头的动词前 *ne → n’*。
+     - 否定句中不定冠词 *un / une / des* 通常变为 *de / d’*：*Ils n’ont pas de lunettes.*
+  3. L’accord en genre et en nombre — 性数配合
+     - 冠词、形容词、限定词等要与相关名词保持性、数一致：*une robe verte / des chaussures noires*。
+  4. Le pluriel des adjectifs — 形容词的复数形式
+     - 一般加 *-s*；以 *-s / -x* 结尾通常不变。
+     - 常见变化：*-eau → -eaux*，*-al → -aux*。
+  5. L’adjectif possessif (2) — 主有形容词（2）
+     - 补充复数人称：*notre / nos, votre / vos, leur / leurs*。
+     - 阴性单数名词或形容词以元音或哑音 h 开头时，仍用 *mon / ton / son*：*mon erreur, ton habitude*。
+
+- **Savoir dire 学会说**
+  - Exprimer la possession — 表达所属关系：*À qui est le tee-shirt ? / Il est à lui. / Ses chaussures sont noires.*
+  - Indiquer les couleurs — 表述颜色：*Le pantalon est de quelle couleur ? / Il est noir.*
+  - Décrire une personne — 描述人物的身高、头发、衣着和颜色。
+
+- **Prononcez 发音**
+  - La liaison en [z] — 联诵中的 [z]
+  - 注意复数词与元音开头词之间的联诵：*ils ont / vous avez / nous avons / vos amis*。
+
+- **Vidéos**
+
+---
+
 ## Unité 3
 
 > 待提供教材截图后填写。
