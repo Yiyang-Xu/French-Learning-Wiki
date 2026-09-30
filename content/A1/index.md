@@ -291,6 +291,42 @@ tags:
 
 ---
 
+### Leçon 7 — Shopping 购物
+
+- **Notes 注释**
+  - 询问年龄仍使用 *avoir*：*Quel âge ont-ils ? / Ma fille a 16 ans et mon fils 14.*
+  - *trouver + nom / pronom + adjectif* 可表示“觉得……怎么样”：*Comment est-ce que tu trouves ce pantalon ?*
+  - *ce type de…* 表示“这种 / 这类……”：*J’aime bien ce type de pantalon.*
+  - 购物中常用 *Vous avez… ?* 询问款式、颜色、尺码等。
+  - *Ça fait combien ?* 可用于询问总价；*faire + nombre* 也可表示“合计为……”。
+  - *pas du tout* 表示“完全不 / 一点也不”；*Ah bon !* 常表示惊讶、确认或回应。
+  - *Voilà.* 在递交商品、钱或物品时可表示“给您 / 给你”。
+
+- **Grammaire 语法**
+  1. L’interrogatif *quel* au pluriel — 疑问形容词 *quel* 的复数形式
+     - *quels / quelles* 与所修饰名词保持性、数一致：*Quels vêtements… ? / Quelles couleurs… ?*
+  2. Les interrogatifs *comment* et *combien* — 疑问词 *comment* 和 *combien*
+     - *comment* 询问方式、状态或评价：*Comment est-ce que tu trouves ce pantalon ?*
+     - *combien* 询问数量或价格：*Combien coûte cette robe ? / Combien ça coûte ?*
+  3. L’adjectif démonstratif — 指示形容词
+     - *ce / cet / cette / ces*：*ce garçon, cet étudiant, cette fille, ces vêtements*。
+     - *cet* 用于元音或哑音 h 开头的阳性单数名词。
+     - 也可指谈话中前面提到的人或事物，或表示较近的时间：*cette voiture / ce matin / cette année*。
+
+- **Savoir dire 学会说**
+  - Caractériser un objet — 描述物品特征：*C’est un pull bleu. / Il est très joli. / Ce n’est pas cher.*
+  - Demander et indiquer le prix — 询问及表达价格：*Il coûte combien ? / Ça fait 59 euros. / Quel est le prix de ce pull ?*
+  - Exprimer des goûts — 表达喜好：*J’aime beaucoup. / Tu aimes cette robe ? / Pas du tout.*
+  - Faire des achats — 在商店询问颜色、尺码、价格并作出选择。
+
+- **Prononcez 发音**
+  - Les liens entre les mots — 词与词之间的连音
+  - 朗读时注意词与词之间的自然衔接，例如：*C’est un objet ? / Tu as un ami français ?*
+
+- **Vidéos**
+
+---
+
 ## Unité 3
 
 > 待提供教材截图后填写。
