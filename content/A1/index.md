@@ -324,6 +324,13 @@ tags:
   - 朗读时注意词与词之间的自然衔接，例如：*C’est un objet ? / Tu as un ami français ?*
 
 - **Vidéos**
+  - [1172.【A1】基础形容：Bon, Bonne 用法入门实战【法语词汇】](https://www.bilibili.com/video/BV1xg411k7QP/)
+  - [1176.【A1】法语价格基础词汇精讲：Cher, Coûter, Combien【法语词汇】](https://www.bilibili.com/video/BV1bU4y1r7pZ/)
+  - [1180.【A1】疑问形容词Quel快速入门+补音基本概念入门 搭配1054效果最佳【法语语法】](https://www.bilibili.com/video/BV1rY4y1u7HA/)
+  - [1184.【A1】疑问词Comment和Combien快速入门【法语语法】](https://www.bilibili.com/video/BV12e411g7ef/)
+  - [1188.【A1】指示形容词快速入门 + 练习实战精讲【法语语法】](https://www.bilibili.com/video/BV1SG4y1B7XS/)
+  - [1192.【A1】你好法语第七课课文精讲精听 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1WG41137Ge/)
+  - [1196.【A1】法语连音小练习精讲 + 联诵和连音区分 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV16G411u7h7/)
 
 ---
 
