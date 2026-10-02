@@ -334,6 +334,42 @@ tags:
 
 ---
 
+### Leçon 8 — Le coin des artistes 艺术家之角
+
+- **Vocabulaire 词汇**
+  - *artiste* — 艺术家
+  - *écrivain* — 作家
+  - *musicien / musicienne* — 音乐家
+  - *peintre* — 画家
+  - *poème / poète* — 诗歌 / 诗人
+  - *sculpteur / sculptrice* — 雕塑家
+  - *film* — 电影
+  - *tableau* — 画；表格
+  - *entre / à côté de / à gauche de / à droite de* — 描述人物或物体的位置关系。
+
+- **Découvrir 初识**
+  - *La vie en rose* — 结合电影《La Môme》中的剧照进行人物和场景描述。
+  - *Quelle photo ?* — 根据人物位置、衣着、物品等信息匹配图片。
+  - *Mais qui sont-ils ?* — 根据文字线索识别艺术家及其职业。
+
+- **Communiquez 交际**
+  - *Et encore ?* — 说出自己知道的其他法国艺术家。
+  - *Poème* — 阅读并仿照 Jacques Prévert 的诗句进行简单创作。
+
+- **Aperçu culturel 文化一瞥**
+  - 本课介绍法国艺术与文化人物，包括 Olivier Dahan、Marion Cotillard、Gérard Depardieu、Henri Matisse、Camille Claudel、Claude Debussy、Colette、Guillaume Apollinaire 等。
+  - 文化阅读还介绍法国奢侈品传统及香水、时装、皮具、香槟、干邑和葡萄酒等相关领域。
+
+- **Savoir-faire 学以致用**
+  - À l’aéroport — 通过电话描述自己的外貌，让来接机的人识别自己。
+  - Ma chambre — 写一封简单邮件描述自己的房间。
+  - Photo de classe — 根据人物外貌、衣着和相对位置，从合影中找到目标人物。
+  - Commandez en ligne — 根据网页商品信息完成基础网购对话和订单。
+
+- **Vidéos**
+
+---
+
 ## Unité 3
 
 > 待提供教材截图后填写。
