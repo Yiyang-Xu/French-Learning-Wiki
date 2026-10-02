@@ -336,17 +336,6 @@ tags:
 
 ### Leçon 8 — Le coin des artistes 艺术家之角
 
-- **Vocabulaire 词汇**
-  - *artiste* — 艺术家
-  - *écrivain* — 作家
-  - *musicien / musicienne* — 音乐家
-  - *peintre* — 画家
-  - *poème / poète* — 诗歌 / 诗人
-  - *sculpteur / sculptrice* — 雕塑家
-  - *film* — 电影
-  - *tableau* — 画；表格
-  - *entre / à côté de / à gauche de / à droite de* — 描述人物或物体的位置关系。
-
 - **Découvrir 初识**
   - *La vie en rose* — 结合电影《La Môme》中的剧照进行人物和场景描述。
   - *Quelle photo ?* — 根据人物位置、衣着、物品等信息匹配图片。
