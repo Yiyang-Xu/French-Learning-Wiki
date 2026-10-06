@@ -356,6 +356,9 @@ tags:
   - Commandez en ligne — 根据网页商品信息完成基础网购对话和订单。
 
 - **Vidéos**
+  - [1200.【A1】系动词不带冠和C'est判断句 + 以E结尾阴阳同形的名词 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV13G4y1s7hm/)
+  - [1204.【A1】基础动词Écrire变位精讲 【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1HT411K7gQ/)
+  - [1208.【A1】人物站位描述：基础方位词练习【法语词汇】【法语语法】](https://www.bilibili.com/video/BV1G8411x7FX/)
 
 ---
 
