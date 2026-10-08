@@ -362,9 +362,53 @@ tags:
 
 ---
 
-## Unité 3
+## Unité 3 — Ça se trouve où ? 在哪儿呢？
 
-> 待提供教材截图后填写。
+> [!info] Unit objectives — Vous allez apprendre à…
+> 1. situer un lieu sur un plan ou sur une carte. 在平面图或地图上确定某一地点的方位。
+> 2. indiquer une direction. 表达方向。
+> 3. indiquer un moyen de transport. 表达交通方式。
+> 4. donner un conseil. 提供建议。
+> 5. décrire un appartement ou une maison. 描述一间公寓或一座房子。
+
+> [!info] Pour…
+> - comprendre une annonce immobilière. 看懂房产广告。
+> - demander et indiquer un chemin. 问路和指路。
+> - lire et présenter des informations touristiques. 阅读和介绍旅游信息。
+
+---
+
+### Leçon 9 — Appartement à louer 待租公寓
+
+- **Notes 注释**
+  - *à + infinitif* 可表示“要……的 / 待……的”：*un appartement à louer / une maison à vendre*。
+  - *au coin de* — 在……街角；*au bout de* — 在……尽头；*en face de* — 在……对面。
+  - 楼层表达使用 *au + ordinal*：*au troisième étage*。
+  - *par* 可表示频率或计价单位：*550 € par mois / trois fois par jour*。
+  - 正式邮件结尾可用 *Meilleures salutations.*
+
+- **Grammaire 语法**
+  1. Le pronom tonique (2) — 重读人称代词（2）
+     - 本课补充：*nous, vous, eux / elles*。
+     - 常见于介词后或强调：*avec nous / chez vous / Eux, ils…*
+  2. La préposition — 介词
+     - 本课重点复习和扩展地点、对象、目的等介词：*à, de, avec, chez, dans, contre, devant, derrière, sous, entre, pour…*
+     - 常见复合介词：*en face de, au bout de, au coin de, près de, à côté de, au-dessous de, au-dessus de*。
+     - *pour + nom / pronom tonique* 表示对象；*pour + nom / infinitif* 可表示目的。
+  3. L’interrogatif *où* — 疑问副词 *où*
+     - 用于询问地点或去向：*Où sont les placards ? / Ça se trouve où ? / Tu vas où maintenant ?*
+
+- **Savoir dire 学会说**
+  - Situer un lieu sur un plan — 在平面图上定位：*La salle de bains est en face de la cuisine. / La chambre est au bout du couloir, à droite.*
+  - S’informer sur un lieu — 询问某一地点的信息：*Où est l’appartement ? / Il y a une fenêtre dans la salle de bains ?*
+  - Décrire un appartement — 描述房间布局、楼层、设施和周边环境。
+  - Comprendre une petite annonce — 读懂租房广告中的面积、楼层、房间、设施和租金等基本信息。
+
+- **Prononcez 发音**
+  - Articulation tirée, articulation arrondie — 扁唇元音和圆唇元音。
+  - 注意法语元音发音时嘴唇形状的区别。
+
+- **Vidéos**
 
 ---
 
