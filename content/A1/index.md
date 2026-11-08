@@ -440,6 +440,7 @@ tags:
 
 - **Vidéos**
   - [1217.【A1】Ancien等前置后置不一样的形容词入门【法语词汇】](https://www.bilibili.com/video/BV1Gg41187fD/)
+  - [1225.【A1】Étage法国楼层概念 + 法语序数词入门【法语语法】](https://www.bilibili.com/video/BV1de4y1y7KX/)
 
 ---
 
